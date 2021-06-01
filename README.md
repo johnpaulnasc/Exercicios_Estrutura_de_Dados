@@ -7,4 +7,5 @@ Repositório da disciplina de estrutura de dados da Universidade Federal da Para
 - [Tarefa 1 - Fibonacci com passagem de parâmetro](https://github.com/jonhpaul5/Estrutura_de_Dados/blob/master/fibo.c)
 - [Tarefa 2 - Contar vogais em uma string](https://github.com/jonhpaul5/Estrutura_de_Dados/blob/master/cont_vogal.c)
 - [Tarefa 3 - Guardar 10 nomes simples em um vetor de ponteiros alocado dinamicamente]()
-- [Tarefa 4 - Implementar as funções da lista: Criar, Limpar, Inserir e Remover no/do final, Mostrar, verificar se é vazia, verificar se é cheia.](https://github.com/jonhpaul5/Estrutura_de_Dados/blob/master/lista.c)
+- [Tarefa 4 - Implementar as funções da lista](https://github.com/jonhpaul5/Estrutura_de_Dados/blob/master/lista.c)
+- [Tarefa 5 - Lista Encadeada - primeiras funções](https://github.com/jonhpaul5/Estrutura_de_Dados/blob/master/lista_escandeiada.c)
