@@ -9,7 +9,7 @@ Matricula: 20190034839
 #include<stdlib.h>
 
 struct arvore{
-    char info;
+    int info;
     struct arvore *esquerda;     //raiz pela esqueda
     struct arvore *direita;      //raiz pela direita
 };
